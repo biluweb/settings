@@ -1,0 +1,22 @@
+{
+  "url":"https://www.xshellz.com/ajax/shell/keep",
+     "data":{
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "zh-CN,zh;q=0.9",
+    "channel": "BBPK4kFpUr8lejvZmDB9RKb57EOFtSUu59zk9GqK1598344241bb61082bbd",
+    "content-type": "application/json;charset=UTF-8",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-requested-with": "XMLHttpRequest",
+    "x-xsrf-token": "eyJpdiI6Ink0eGZNTzlOaFo2cmxST1A1S1ZibEE9PSIsInZhbHVlIjoidEhVRlZYWlh1UjQxSHZRVDRJS241T1dPd3Y4Yzd2TzdoUExnNlwvcUZwZ1N0ckNZMTZ3eUxEZk1DRExcL0xkdDk0IiwibWFjIjoiOGFkYjgxMDRhZGYzNjc0NjBmYmI3YzQzYWUxMjE4NjI0OGMwODIxOWJiZGE1N2E4OWQ2YzAwYzE5ZDU5MWQyYyJ9",
+    "cookie": "__cfduid=d6f74f0fd85b12d594ba6f5096db580331598344168; _ga=GA1.2.1167363565.1598344168; _gid=GA1.2.2075591168.1598344168; xshellz_session=BBPK4kFpUr8lejvZmDB9RKb57EOFtSUu59zk9GqK; _gat=1; XSRF-TOKEN=eyJpdiI6Ink0eGZNTzlOaFo2cmxST1A1S1ZibEE9PSIsInZhbHVlIjoidEhVRlZYWlh1UjQxSHZRVDRJS241T1dPd3Y4Yzd2TzdoUExnNlwvcUZwZ1N0ckNZMTZ3eUxEZk1DRExcL0xkdDk0IiwibWFjIjoiOGFkYjgxMDRhZGYzNjc0NjBmYmI3YzQzYWUxMjE4NjI0OGMwODIxOWJiZGE1N2E4OWQ2YzAwYzE5ZDU5MWQyYyJ9"
+  },
+  "referrer": "https://www.xshellz.com/xpanel/shell/118215",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": "{\"opid\":\"118215\"}",
+  "method": "POST",
+  "mode": "cors"
+}
+}

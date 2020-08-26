@@ -1,4 +1,5 @@
 {
+  "time":"30 * * * * *",
   "url":"https://www.xshellz.com/ajax/shell/keep",
      "data":{
   "headers": {
